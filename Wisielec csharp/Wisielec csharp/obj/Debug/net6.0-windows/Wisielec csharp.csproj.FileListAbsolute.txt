@@ -1,0 +1,18 @@
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\Wisielec csharp.csproj.AssemblyReference.cache
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\Wisielec_csharp.Form1.resources
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\Wisielec_csharp.Properties.Resources.resources
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\Wisielec csharp.csproj.GenerateResource.cache
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\Wisielec csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\Wisielec csharp.AssemblyInfoInputs.cache
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\Wisielec csharp.AssemblyInfo.cs
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\Wisielec csharp.csproj.CoreCompileInputs.cache
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\bin\Debug\net6.0-windows\Wisielec csharp.exe
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\bin\Debug\net6.0-windows\Wisielec csharp.deps.json
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\bin\Debug\net6.0-windows\Wisielec csharp.runtimeconfig.json
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\bin\Debug\net6.0-windows\Wisielec csharp.dll
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\bin\Debug\net6.0-windows\Wisielec csharp.pdb
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\Wisielec csharp.dll
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\refint\Wisielec csharp.dll
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\Wisielec csharp.pdb
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\Wisielec csharp.genruntimeconfig.cache
+C:\Users\JanSzala\source\repos\Wisielec csharp\Wisielec csharp\obj\Debug\net6.0-windows\ref\Wisielec csharp.dll

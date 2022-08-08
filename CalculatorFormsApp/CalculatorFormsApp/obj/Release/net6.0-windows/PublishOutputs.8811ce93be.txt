@@ -1,0 +1,5 @@
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\bin\publish\CalculatorFormsApp.exe
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\bin\publish\CalculatorFormsApp.dll
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\bin\publish\CalculatorFormsApp.deps.json
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\bin\publish\CalculatorFormsApp.runtimeconfig.json
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\bin\publish\CalculatorFormsApp.pdb

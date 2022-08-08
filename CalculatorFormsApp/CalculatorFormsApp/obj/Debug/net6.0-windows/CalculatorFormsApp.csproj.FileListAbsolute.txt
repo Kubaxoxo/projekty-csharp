@@ -1,0 +1,17 @@
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net6.0-windows\CalculatorFormsApp.csproj.AssemblyReference.cache
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net6.0-windows\CalculatorFormsApp.Form1.resources
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net6.0-windows\CalculatorFormsApp.csproj.GenerateResource.cache
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net6.0-windows\CalculatorFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net6.0-windows\CalculatorFormsApp.AssemblyInfoInputs.cache
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net6.0-windows\CalculatorFormsApp.AssemblyInfo.cs
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net6.0-windows\CalculatorFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net6.0-windows\CalculatorFormsApp.exe
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net6.0-windows\CalculatorFormsApp.deps.json
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net6.0-windows\CalculatorFormsApp.runtimeconfig.json
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net6.0-windows\CalculatorFormsApp.dll
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\bin\Debug\net6.0-windows\CalculatorFormsApp.pdb
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net6.0-windows\CalculatorFormsApp.dll
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net6.0-windows\refint\CalculatorFormsApp.dll
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net6.0-windows\CalculatorFormsApp.pdb
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net6.0-windows\CalculatorFormsApp.genruntimeconfig.cache
+C:\Users\JanSzala\source\repos\CalculatorFormsApp\CalculatorFormsApp\obj\Debug\net6.0-windows\ref\CalculatorFormsApp.dll
